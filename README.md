@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fonchosama
+- 👋 Hi, I’m Giancarlo
 - 👀 I’m interested in Streaming, videogames, photograpy and of course on web development.
 - 🌱 I’m currently learning Html and Css but aiming to start with JS soon.
 - 💞️ I’m looking to collaborate on Social Projects and if possible videogames devs
